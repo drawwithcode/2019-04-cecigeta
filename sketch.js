@@ -6,7 +6,7 @@ var myImage;
 
 function preload() {
   // put preload code here
-  mySong = loadSound("[FREE] SZA x Frank Ocean Type Beat - By Myself [Mpgun.com].mp3");
+  mySong = loadSound("[FREE] SZA x Frank Ocean Type Beat - By Myself.mp3");
   myImage = loadImage("foglia.png");
 
 }
