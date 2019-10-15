@@ -55,7 +55,7 @@ function draw() {
   image(myImage, mouseX, mouseY, 200 + volume, 300 + volume);
 
   var myText = "click and relax";
-  textFont(" Archivo Black");
+  textFont("Archivo Black");
   textAlign(CENTER);
   textSize(30);
   fill(240);
